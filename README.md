@@ -1,2 +1,2 @@
-# smileySadFaceChallenge
+# jsClasses
 Created with CodeSandbox
